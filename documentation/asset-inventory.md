@@ -42,3 +42,5 @@
 - IP addresses are placeholders. Update with actual assigned addresses as you build each phase.
 - Ports listed are defaults. Update if you change them during setup.
 - Add RAM, CPU, and storage specs to the physical devices table once confirmed.
+
+
